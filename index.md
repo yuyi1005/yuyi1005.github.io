@@ -20,17 +20,17 @@ His research interests include deep learning and computer vision, with a focus o
 
 ---
 
-**H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection**
+### H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection
 
 **Yi Yu**\*, Xue Yang\*, Qingyun Li, Yue Zhou, Gefan Zhang, Feipeng Da†, Junchi Yan†
 <br>
-*Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, CCF-A)*</b>, New Orleans, Louisiana, USA, 2023. 
+*Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, CCF-A)*</b>, New Orleans, USA, 2023. 
 <br>
 [arXiv](https://arxiv.org/abs/2304.04403) \| [Code](https://github.com/open-mmlab/mmrotate) \| [Zhihu](https://zhuanlan.zhihu.com/p/620884206)
 
 ---
 
-**Phase-shifting coder: Predicting accurate orientation in oriented object detection**
+### Phase-shifting coder: Predicting accurate orientation in oriented object detection
 
 **Yi Yu**, Feipeng Da†
 <br>
@@ -42,30 +42,34 @@ His research interests include deep learning and computer vision, with a focus o
 
 \* Equal contribution. &nbsp;&nbsp;&nbsp; † Corresponding author.
 
-# Awards
-
-Jiangsu Funding Program for Excellent Postdoctoral Talent, 2023.
-
-Zhishan Postdoc Program of Southeast University, 2022.
-
-National Undergraduate Electronic Design Contest, The First Prize of China, 2015
-
-The 14th "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, The Second Prize of China, 2015.
-
-The 9th "Freescale Cup" National College Student Smart Car Competition, The First Prize of Eastern China, 2014.
-
 # Projects
 
-**Research on Deep-Learning-Based 3D-AOI Technology for Printed Circuits**
+### Research on Deep-Learning-Based 3D-AOI Technology for Printed Circuits
+
+Principal Investigator
 <br>
-Principal Investigator, National Natural Science Foundation of China (62306069), 2024--2026
+*National Natural Science Foundation of China (62306069)*, 2024--2026.
 
 ---
 
-**Research on Optical Inspection Technology Based on Weakly-Supervised Learning**
+### Research on Optical Inspection Technology Based on Weakly-Supervised Learning
+
+Principal Investigator
 <br>
-Principal Investigator, China Postdoctoral Science Foundation (2023M740602)}, 2024--2026
-    
+*China Postdoctoral Science Foundation (2023M740602)*, 2024--2026.
+
+# Awards
+
+- Jiangsu Funding Program for Excellent Postdoctoral Talent, 2023.
+
+- Zhishan Postdoc Program of Southeast University, 2022.
+
+- National Undergraduate Electronic Design Contest, The First Prize of China, 2015
+
+- The 14th "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, The Second Prize of China, 2015.
+
+- The 9th "Freescale Cup" National College Student Smart Car Competition, The First Prize of Eastern China, 2014.
+
 # Downloads
 
 OCDPCB dataset: [Download](https://drive.google.com/file/d/1X-9jsUreu0Eyzyi8lG-oBLHTcKTbNcHo/view?usp=sharing)
