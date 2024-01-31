@@ -16,11 +16,7 @@ Yi Yu's research interests include deep learning and computer vision, with a foc
 
 Yi Yu*, Xue Yang*, Qingyun Li, Yue Zhou, Gefan Zhang, Feipeng Da†, Junchi Yan†
 
-*Advances in Neural Information Processing Systems (NeurIPS)*, New Orleans, Louisiana, USA, 2023. 
-
-$\textcolor{red}{\text{CCF-A}}$
-<font color=#0000FF>(CCF-A)</font>
-<p style='color:red'>This is some red text.</p>
+*Advances in Neural Information Processing Systems <b style='color:red'>(NeurIPS, CCF-A)</p>*, New Orleans, Louisiana, USA, 2023. 
 
 [arXiv](https://arxiv.org/abs/2304.04403) | [Code](https://github.com/open-mmlab/mmrotate) | [Zhihu](https://zhuanlan.zhihu.com/p/620884206)
 
