@@ -20,6 +20,14 @@ His research interests include deep learning and computer vision, with a focus o
 
 ---
 
+### PointOBB: Learning Oriented Object Detection via Single Point Supervision
+
+Junwei Luo, Xue Yang#, **Yu Yi**, Qingyun Li, Junchi Yan, Yansheng Li†
+<br>
+[arXiv](https://arxiv.org/abs/2311.14757) \| [Code](https://github.com/Luo-Z13/pointobb) \| [Zhihu](https://zhuanlan.zhihu.com/p/668792405)
+
+---
+
 ### H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection
 
 **Yi Yu**\*, Xue Yang\*, Qingyun Li, Yue Zhou, Gefan Zhang, Feipeng Da†, Junchi Yan†
@@ -40,7 +48,39 @@ His research interests include deep learning and computer vision, with a focus o
 
 ---
 
-\* Equal contribution. &nbsp;&nbsp;&nbsp; † Corresponding author.
+### Few-data guided learning upon end-to-end point cloud network for 3D face recognition
+
+**Yi Yu**, Feipeng Da†, Ziyu Zhang
+<br>
+*Multimedia Tools and Applications* <b style='color:red'>*(MTAP, JCR-Q2, CCF-C)*</b>, 2022. 
+
+---
+
+### Defocused projection model for phase-shifting profilometry with a large depth range
+
+**Yi Yu**, Feipeng Da†
+<br>
+*Optics Express* <b style='color:red'>*(OE, JCR-Q1)*</b>, 2021.
+    
+---
+
+### High-Speed Phase-Shifting 3D Profilometry on Human Face Assisted by Statistical Model
+
+**Yi Yu**, Feipeng Da†, Yifan Guo, Ziyu Zhang
+<br>
+*IEEE Transactions on Computational Imaging* <b style='color:red'>*(TCI, JCR-Q1)*</b>, 2020.
+
+---
+
+### Sparse ICP With Resampling and Denoising for 3D Face Verification
+
+**Yi Yu**, Feipeng Da†, Yifan Guo
+<br>
+*IEEE Transactions on Information Forensics and Security* <b style='color:red'>*(TIFS, JCR-Q1, CCF-A)*</b>, 2019.
+
+---
+
+\* Equal contribution. &nbsp;&nbsp; † Corresponding author. &nbsp;&nbsp; # Project leader.
 
 # Projects
 
@@ -60,15 +100,15 @@ Principal Investigator
 
 # Awards
 
-- Jiangsu Funding Program for Excellent Postdoctoral Talent, 2023.
+♦ Jiangsu Funding Program for Excellent Postdoctoral Talent, 2023.
 
-- Zhishan Postdoc Program of Southeast University, 2022.
+♦ Zhishan Postdoc Program of Southeast University, 2022.
 
-- National Undergraduate Electronic Design Contest, The First Prize of China, 2015
+♦ The 1st Prize of China in National Undergraduate Electronic Design Contest, 2015.
 
-- The 14th "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, The Second Prize of China, 2015.
+♦ The 2nd Prize of China in the 14th "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, 2015.
 
-- The 9th "Freescale Cup" National College Student Smart Car Competition, The First Prize of Eastern China, 2014.
+♦ The 1st Prize of Eastern China in the 9th "Freescale Cup" National College Student Smart Car Competition, 2014.
 
 # Downloads
 
