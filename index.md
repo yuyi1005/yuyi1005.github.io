@@ -12,7 +12,7 @@ His research interests include deep learning and computer vision, with a focus o
 
 # Publications
 
-**Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision**
+## Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
 
 **Yi Yu**\*, Xue Yang\*, Qingyun Li, Feipeng Da†, Junchi Yan†, Jifeng Dai, Yu Qiao
 <br>
@@ -42,6 +42,26 @@ His research interests include deep learning and computer vision, with a focus o
 
 \* Equal contribution. &nbsp;&nbsp;&nbsp; † Corresponding author.
 
+# Awards
+
+- Jiangsu Funding Program for Excellent Postdoctoral Talent, 2023.
+- Zhishan Postdoc Program of Southeast University, 2022.
+- National Undergraduate Electronic Design Contest, The First Prize of China, 2015
+- The 14th "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, The Second Prize of China, 2015.
+- The 9th "Freescale Cup" National College Student Smart Car Competition, The First Prize of Eastern China, 2014.
+
+# Projects
+
+**Research on Deep-Learning-Based 3D-AOI Technology for Printed Circuits**
+<br>
+Principal Investigator, National Natural Science Foundation of China (62306069), 2024--2026
+
+---
+
+**Research on Optical Inspection Technology Based on Weakly-Supervised Learning**
+<br>
+Principal Investigator, China Postdoctoral Science Foundation (2023M740602)}, 2024--2026
+    
 # Downloads
 
 OCDPCB dataset: [Download](https://drive.google.com/file/d/1X-9jsUreu0Eyzyi8lG-oBLHTcKTbNcHo/view?usp=sharing)
