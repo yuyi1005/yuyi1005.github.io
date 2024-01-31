@@ -12,11 +12,19 @@ Yi Yu's research interests include deep learning and computer vision, with a foc
 
 # Works
 
+**Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision**
+
+Yi Yu\*, Xue Yang\*, Qingyun Li, Feipeng Da†, Junchi Yan†, Jifeng Dai, Yu Qiao
+
+[arXiv](https://arxiv.org/abs/2311.14758) | [Code](https://github.com/open-mmlab/mmrotate) | [Zhihu](https://zhuanlan.zhihu.com/p/668627776)
+
+---
+
 **H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection**
 
 Yi Yu*, Xue Yang*, Qingyun Li, Yue Zhou, Gefan Zhang, Feipeng Da†, Junchi Yan†
 
-*Advances in Neural Information Processing Systems <b style='color:red'>(NeurIPS, CCF-A)</p>*, New Orleans, Louisiana, USA, 2023. 
+*Advances in Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, CCF-A)*</b>, New Orleans, Louisiana, USA, 2023. 
 
 [arXiv](https://arxiv.org/abs/2304.04403) | [Code](https://github.com/open-mmlab/mmrotate) | [Zhihu](https://zhuanlan.zhihu.com/p/620884206)
 
