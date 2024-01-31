@@ -12,7 +12,19 @@ Yi Yu's research interests include deep learning and computer vision, with a foc
 
 # Works
 
-To be updated.
+**H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection**
+
+Yi Yu*, Xue Yang*, Qingyun Li, Yue Zhou, Gefan Zhang, Feipeng Da†, Junchi Yan†
+
+*Advances in Neural Information Processing Systems (NeurIPS)*, New Orleans, Louisiana, USA, 2023. 
+
+$\textcolor{red}{\text{CCF-A}}$
+<font color=#0000FF>(CCF-A)</font>
+<p style='color:red'>This is some red text.</p>
+
+[arXiv](https://arxiv.org/abs/2304.04403) | [Code](https://github.com/open-mmlab/mmrotate) | [Zhihu](https://zhuanlan.zhihu.com/p/620884206)
+
+---
 
 # Downloads
 
