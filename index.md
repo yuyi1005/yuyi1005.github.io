@@ -4,11 +4,13 @@ layout: default
 
 # Biography
 
-Yi Yu is currently a postdoc (research associate) in School of Automation, Southeast University. His research advisor is Prof. Feipeng Da. 
-
-He received the Ph.D. degree from School of Automation, Southeast University, Nanjing, China, in 2022. He received the B. E. degree from School of Automation, Southeast University, Nanjing, China, in 2016.
+Yi Yu is currently a postdoc (research associate) in Southeast University, Nanjing, China. His research advisor is Prof. Feipeng Da. 
 
 His research interests include deep learning and computer vision, with a focus on oriented object detection, 3D optical measurement, and 3D vision.
+
+# Education
+
+Yi Yu received the Ph.D. and B.E. degrees from School of Automation, Southeast University, Nanjing, China, in 2022 and 2016. 
 
 # Publications
 
