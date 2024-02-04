@@ -6,7 +6,7 @@ layout: default
 
 Yi Yu is currently a postdoc (research associate) in Southeast University, Nanjing, China. His research advisor is Prof. Feipeng Da. 
 
-**Research areas.** His research interests include deep learning and computer vision, with a focus on oriented object detection, 3D optical measurement, and 3D vision.
+His research interests include deep learning and computer vision, with a focus on oriented object detection, 3D optical measurement, and 3D vision.
 
 **Education.** Yi Yu received the Ph.D. and B.E. degrees from School of Automation, Southeast University, Nanjing, China, in 2022 and 2016. 
 
@@ -53,6 +53,14 @@ Junwei Luo, Xue Yang#, **Yu Yi**, Qingyun Li, Junchi Yan, Yansheng Li†
 **Yi Yu**, Feipeng Da†, Ziyu Zhang
 <br>
 *Multimedia Tools and Applications* <b style='color:red'>*(MTAP, JCR-Q2, CCF-C)*</b>, 2022. 
+
+---
+
+### Learning directly from synthetic point clouds for “in-the-wild” 3D face recognition
+
+Ziyu Zhang, Feipeng Da†, **Yi Yu**
+<br>
+*Pattern Recognition* <b style='color:red'>*(PR, JCR-Q1, CCF-B)*</b>, 2022.
 
 ---
 
@@ -106,9 +114,9 @@ Principal Investigator
 
 ♦ The 1st Prize of China in National Undergraduate Electronic Design Contest, 2015.
 
-♦ The 2nd Prize of China in the 14th "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, 2015.
+♦ The 2nd Prize of China in the 14th “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition, 2015.
 
-♦ The 1st Prize of Eastern China in the 9th "Freescale Cup" National College Student Smart Car Competition, 2014.
+♦ The 1st Prize of Eastern China in the 9th “Freescale Cup” National College Student Smart Car Competition, 2014.
 
 # Downloads
 
