@@ -116,6 +116,8 @@ Principal Investigator
 
 ♦ The 1st Prize of Eastern China in the 9th “Freescale Cup” National College Student Smart Car Competition, 2014.
 
+<!--
 # Downloads
 
 OCDPCB dataset: [Download](https://drive.google.com/file/d/1X-9jsUreu0Eyzyi8lG-oBLHTcKTbNcHo/view?usp=sharing)
+-->
