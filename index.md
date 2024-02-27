@@ -15,6 +15,8 @@ Yi Yu is currently a postdoc (research associate) in Southeast University, Nanji
 **Yi Yu**, Feipeng Da†
 <br>
 
+---
+
 ### Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
 
 **Yi Yu**\*, Xue Yang\*, Qingyun Li, Feipeng Da†, Junchi Yan†, Jifeng Dai, Yu Qiao
