@@ -24,7 +24,7 @@ Yi Yu is currently a postdoc (research associate) in Southeast University, Nanji
 <br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, Seattle, USA, 2024. 
 <br>
-[arXiv](https://arxiv.org/abs/2311.14758) \| [Code](https://github.com/yuyi1005/mmrotate/tree/dev-1.x/configs/point2rbox) \| [Zhihu](https://zhuanlan.zhihu.com/p/668627776)
+[arXiv](https://arxiv.org/abs/2311.14758) \| [Code](https://github.com/yuyi1005/point2rbox-mmrotate/tree/dev-1.x/configs/point2rbox) \| [Zhihu](https://zhuanlan.zhihu.com/p/668627776)
 
 ---
 
@@ -44,7 +44,7 @@ Junwei Luo, Xue Yang#, **Yu Yi**, Qingyun Li, Junchi Yan, Yansheng Li†
 <br>
 *Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, CCF-A)*</b>, New Orleans, USA, 2023. 
 <br>
-[arXiv](https://arxiv.org/abs/2304.04403) \| [Code](https://github.com/yuyi1005/mmrotate/tree/dev-1.x/configs/h2rbox_v2) \| [Zhihu](https://zhuanlan.zhihu.com/p/620884206)
+[arXiv](https://arxiv.org/abs/2304.04403) \| [Code](https://github.com/yuyi1005/point2rbox-mmrotate/tree/dev-1.x/configs/h2rbox_v2) \| [Zhihu](https://zhuanlan.zhihu.com/p/620884206)
 
 ---
 
