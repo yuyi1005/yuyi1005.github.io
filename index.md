@@ -14,7 +14,7 @@ Yi Yu is currently a postdoc (research associate) in Southeast University, Nanji
 
 **Yi Yu**, Feipeng Da†
 <br>
-*Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2024.
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2024.
 
 ---
 
