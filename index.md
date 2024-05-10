@@ -30,7 +30,7 @@ Yi Yu is currently a postdoc (research associate) in Southeast University, Nanji
 
 ### PointOBB: Learning Oriented Object Detection via Single Point Supervision
 
-Junwei Luo, Xue Yang#, **Yu Yi**, Qingyun Li, Junchi Yan, Yansheng Li†
+Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 <br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, Seattle, USA, 2024. 
 <br>
