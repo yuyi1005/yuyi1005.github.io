@@ -10,6 +10,10 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 # Publications
 
+\* Equal contribution. &nbsp;&nbsp; † Corresponding author. &nbsp;&nbsp; # Project leader.
+
+---
+
 ### PCBSSD: Self-supervised Symmetry-aware Detector for PCB Displacement and Orientation Inspection
 
 Jingxuan Li, Feipeng Da, **Yi Yu**†
@@ -103,10 +107,6 @@ Ziyu Zhang, Feipeng Da†, **Yi Yu**
 **Yi Yu**, Feipeng Da†, Yifan Guo
 <br>
 *IEEE Transactions on Information Forensics and Security* <b style='color:red'>*(TIFS, JCR-Q1, CCF-A)*</b>, 2019.
-
----
-
-\* Equal contribution. &nbsp;&nbsp; † Corresponding author. &nbsp;&nbsp; # Project leader.
 
 # Projects
 
