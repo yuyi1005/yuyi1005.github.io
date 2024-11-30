@@ -4,11 +4,19 @@ layout: default
 
 # Biography
 
-Yi Yu is currently a postdoc (research associate) in Southeast University, Nanjing, China. His research advisor is Prof. Feipeng Da. His research interests include deep learning and computer vision, with a focus on oriented object detection, 3D optical measurement, and 3D vision.
+Yi Yu is currently a postdoc (research associate) at Southeast University, Nanjing, China. His research advisor is Prof. Feipeng Da. His research interests include deep learning and computer vision, with a focus on oriented object detection, 3D optical measurement, and 3D vision.
 
-**Education.** Yi Yu received the Ph.D. and B.E. degrees from School of Automation, Southeast University, Nanjing, China, in 2022 and 2016. 
+**Education.** Yi Yu received the Ph.D. and B.E. degrees from the School of Automation, Southeast University, Nanjing, China, in 2022 and 2016. 
 
 # Publications
+
+### PCBSSD: Self-supervised Symmetry-aware Detector for PCB Displacement and Orientation Inspection
+
+Jingxuan Li, Feipeng Da, **Yi Yu**†
+<br>
+*Measurement* <b style='color:red'>*(MEAS, JCR-Q1)*</b>, 2024.
+
+---
 
 ### On Boundary Discontinuity in Angle Regression Based Arbitrary Oriented Object Detection
 
