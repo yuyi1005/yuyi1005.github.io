@@ -16,11 +16,27 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 ---
 
+### PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection
+
+Botao Ren\*, Xue Yang\*, **Yi Yu**\*, Junwei Luo, Zhidong Deng†
+<br>
+*Under review* <b style='color:red'>*()*</b>, 2024.
+
+---
+
 ### PCBSSD: Self-supervised Symmetry-aware Detector for PCB Displacement and Orientation Inspection
 
 Jingxuan Li, Feipeng Da, **Yi Yu**†
 <br>
 *Measurement* <b style='color:red'>*(MEAS, JCR-Q1)*</b>, 2024.
+
+---
+
+### STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery
+
+Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming Deng, Wenbin Wang, Xian Sun, Haifeng Li, Bo Dang, Yongjun Zhang, **Yi Yu**, Junchi Yan†
+<br>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2024.
 
 ---
 
