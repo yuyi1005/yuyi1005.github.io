@@ -8,6 +8,8 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 **Education.** Yi Yu received the Ph.D. and B.E. degrees from the School of Automation, Southeast University, Nanjing, China, in 2022 and 2016. 
 
+---
+
 # Publications
 
 \* Equal contribution. &nbsp;&nbsp; † Corresponding author. &nbsp;&nbsp; # Project leader.
@@ -108,6 +110,8 @@ Ziyu Zhang, Feipeng Da†, **Yi Yu**
 <br>
 *IEEE Transactions on Information Forensics and Security* <b style='color:red'>*(TIFS, JCR-Q1, CCF-A)*</b>, 2019.
 
+---
+
 # Projects
 
 ### Research on Deep-Learning-Based 3D-AOI Technology for Printed Circuits
@@ -124,6 +128,8 @@ Principal Investigator
 <br>
 *China Postdoctoral Science Foundation (2023M740602)*, 2024--2026.
 
+---
+
 # Awards
 
 ♦ Jiangsu Funding Program for Excellent Postdoctoral Talent, 2023.
@@ -135,6 +141,8 @@ Principal Investigator
 ♦ The 2nd Prize of China in the 14th “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition, 2015.
 
 ♦ The 1st Prize of Eastern China in the 9th “Freescale Cup” National College Student Smart Car Competition, 2014.
+
+---
 
 <!--
 # Downloads
