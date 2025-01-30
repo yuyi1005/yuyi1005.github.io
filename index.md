@@ -78,7 +78,7 @@ Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 
 ### H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection
 
-**Yi Yu**\*, Xue Yang\*, Qingyun Li, Yue Zhou, Gefan Zhang, Feipeng Da†, Junchi Yan†
+**Yi Yu**\*, Xue Yang\*, Qingyun Li, Yue Zhou, Feipeng Da†, Junchi Yan†
 <br>
 *Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, CCF-A)*</b>, New Orleans, USA, 2023. 
 <br>
