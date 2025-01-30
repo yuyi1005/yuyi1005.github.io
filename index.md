@@ -16,11 +16,19 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 ---
 
+### LMMRotate: A Simple Aerial Detection Baseline of Multimodal Language Models
+
+Qingyun Li, Yushi Chen, Xinya Shu, Dong Chen, Xin He, **Yi Yu**, Xue Yang
+<br>
+*arXiv* <b style='color:red'>*()*</b>, 2025.
+
+---
+
 ### PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection
 
 Botao Ren\*, Xue Yang\*, **Yi Yu**\*, Junwei Luo, Zhidong Deng†
 <br>
-*International Conference on Learning Representations* <b style='color:red'>*(ICLR)*</b>, 2024.
+*International Conference on Learning Representations* <b style='color:red'>*(ICLR)*</b>, 2025.
 
 ---
 
@@ -28,7 +36,7 @@ Botao Ren\*, Xue Yang\*, **Yi Yu**\*, Junwei Luo, Zhidong Deng†
 
 Jingxuan Li, Feipeng Da, **Yi Yu**†
 <br>
-*Measurement* <b style='color:red'>*(MEAS, JCR-Q1)*</b>, 2024.
+*Measurement* <b style='color:red'>*(MEAS, JCR-Q1)*</b>, 2025.
 
 ---
 
