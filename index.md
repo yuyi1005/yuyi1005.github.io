@@ -20,7 +20,7 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 Botao Ren\*, Xue Yang\*, **Yi Yu**\*, Junwei Luo, Zhidong Deng†
 <br>
-*Under review* <b style='color:red'>*()*</b>, 2024.
+*International Conference on Learning Representations* <b style='color:red'>*(ICLR, CCF-A)*</b>, 2024.
 
 ---
 
