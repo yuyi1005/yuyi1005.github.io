@@ -16,6 +16,22 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 ---
 
+### Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection
+
+**Yi Yu**, Xue Yang, Yansheng Li, Zhenjun Han, Feipeng Da, Junchi Yan
+<br>
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2025.
+
+---
+
+### Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances
+
+**Yi Yu**, Botao Ren, Peiyuan Zhang, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
+<br>
+*arXiv* <b style='color:red'>*()*</b>, 2025.
+
+---
+
 ### LMMRotate: A Simple Aerial Detection Baseline of Multimodal Language Models
 
 Qingyun Li, Yushi Chen, Xinya Shu, Dong Chen, Xin He, **Yi Yu**, Xue Yang
