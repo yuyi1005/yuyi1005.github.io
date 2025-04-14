@@ -38,7 +38,7 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 Qingyun Li, Yushi Chen, Xinya Shu, Dong Chen, Xin He, **Yi Yu**, Xue Yang
 <br>
-*arXiv* <b style='color:red'>*()*</b>, 2025.
+*International Geoscience and Remote Sensing Symposium* <b style='color:red'>*(IGARSS)*</b>, 2025.
 
 ---
 
