@@ -172,7 +172,7 @@ Principal Investigator
 
 ---
 
-# Awards
+# Awards/Competitions
 
 ♦ Jiangsu Funding Program for Excellent Postdoctoral Talent, 2023.
 
