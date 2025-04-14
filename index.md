@@ -20,7 +20,7 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 **Yi Yu**, Botao Ren, Peiyuan Zhang, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
 <br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, -A)*</b>, 2025. 
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, 2025. 
 <br>
 [arXiv](https://arxiv.org/abs/2502.04268) \| [Code](https://github.com/VisionXLab/point2rbox-v2) \| [Zhihu](https://zhuanlan.zhihu.com/p/21748498041)
 
@@ -30,7 +30,7 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 **Yi Yu**, Xue Yang, Yansheng Li, Zhenjun Han, Feipeng Da, Junchi Yan
 <br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, -A)*</b>, 2025.
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2025.
 
 ---
 
@@ -62,7 +62,7 @@ Jingxuan Li, Feipeng Da, **Yi Yu**†
 
 Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming Deng, Wenbin Wang, Xian Sun, Haifeng Li, Bo Dang, Yongjun Zhang, **Yi Yu**, Junchi Yan†
 <br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, -A)*</b>, 2024.
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2024.
 
 ---
 
@@ -70,7 +70,7 @@ Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming D
 
 **Yi Yu**, Feipeng Da†
 <br>
-*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, -A)*</b>, 2024.
+*IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2024.
 
 ---
 
@@ -78,7 +78,7 @@ Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming D
 
 **Yi Yu**\*, Xue Yang\*, Qingyun Li, Feipeng Da†, Jifeng Dai, Yu Qiao, Junchi Yan†
 <br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, -A)*</b>, 2024. 
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, 2024. 
 <br>
 [arXiv](https://arxiv.org/abs/2311.14758) \| [Code](https://github.com/yuyi1005/point2rbox-mmrotate/tree/dev-1.x/configs/point2rbox) \| [Zhihu](https://zhuanlan.zhihu.com/p/668627776)
 
@@ -88,7 +88,7 @@ Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming D
 
 Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 <br>
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, -A)*</b>, 2024. 
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, 2024. 
 <br>
 [arXiv](https://arxiv.org/abs/2311.14757) \| [Code](https://github.com/Luo-Z13/pointobb) \| [Zhihu](https://zhuanlan.zhihu.com/p/668792405)
 
@@ -98,7 +98,7 @@ Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 
 **Yi Yu**\*, Xue Yang\*, Qingyun Li, Yue Zhou, Feipeng Da†, Junchi Yan†
 <br>
-*Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, -A)*</b>, 2023. 
+*Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, CCF-A)*</b>, 2023. 
 <br>
 [arXiv](https://arxiv.org/abs/2304.04403) \| [Code](https://github.com/yuyi1005/point2rbox-mmrotate/tree/dev-1.x/configs/h2rbox_v2) \| [Zhihu](https://zhuanlan.zhihu.com/p/620884206)
 
@@ -150,7 +150,7 @@ Ziyu Zhang, Feipeng Da†, **Yi Yu**
 
 **Yi Yu**, Feipeng Da†, Yifan Guo
 <br>
-*IEEE Transactions on Information Forensics and Security* <b style='color:red'>*(TIFS, JCR-Q1, -A)*</b>, 2019.
+*IEEE Transactions on Information Forensics and Security* <b style='color:red'>*(TIFS, JCR-Q1, CCF-A)*</b>, 2019.
 
 ---
 
