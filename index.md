@@ -150,6 +150,7 @@ Ziyu Zhang, Feipeng Da, **Yi Yu**
 
 ---
 
+<!--
 # Projects
 
 ### Research on Deep-Learning-Based 3D-AOI Technology for Printed Circuits
@@ -167,6 +168,7 @@ Principal Investigator
 *China Postdoctoral Science Foundation (2023M740602)*, 2024--2026.
 
 ---
+-->
 
 # Awards/Competitions
 
