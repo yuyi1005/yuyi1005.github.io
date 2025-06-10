@@ -4,17 +4,13 @@ layout: default
 
 # Biography
 
-Yi Yu is currently a postdoc (research associate) at Southeast University, Nanjing, China. His research advisor is Prof. Feipeng Da. His research interests include deep learning and computer vision, with a focus on oriented object detection, 3D optical measurement, and 3D vision.
+Yi Yu is currently a postdoc (research associate) at Southeast University, Nanjing, China. His research advisor is Prof. Feipeng Da. His research interests include efficient annotation, object segmentation and detection, computational imaging, and 3D vision, with applications to biomedical data analysis and advanced manufacturing.
 
 **Education.** Yi Yu received the Ph.D. and B.E. degrees from the School of Automation, Southeast University, Nanjing, China, in 2022 and 2016. 
 
 ---
 
 # Publications
-
-\* Equal contribution. &nbsp;&nbsp; † Corresponding author. &nbsp;&nbsp; # Project leader.
-
----
 
 ### Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances
 
@@ -44,7 +40,7 @@ Qingyun Li, Yushi Chen, Xinya Shu, Dong Chen, Xin He, **Yi Yu**, Xue Yang
 
 ### PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection
 
-Botao Ren\*, Xue Yang\*, **Yi Yu**\*, Junwei Luo, Zhidong Deng†
+Botao Ren, Xue Yang, **Yi Yu** (Co-first author), Junwei Luo, Zhidong Deng
 <br>
 *International Conference on Learning Representations* <b style='color:red'>*(ICLR)*</b>, 2025.
 
@@ -52,7 +48,7 @@ Botao Ren\*, Xue Yang\*, **Yi Yu**\*, Junwei Luo, Zhidong Deng†
 
 ### PCBSSD: Self-supervised Symmetry-aware Detector for PCB Displacement and Orientation Inspection
 
-Jingxuan Li, Feipeng Da, **Yi Yu**†
+Jingxuan Li, Feipeng Da, **Yi Yu** (Corresponding author)
 <br>
 *Measurement* <b style='color:red'>*(MEAS, JCR-Q1)*</b>, 2025.
 
@@ -60,7 +56,7 @@ Jingxuan Li, Feipeng Da, **Yi Yu**†
 
 ### STAR: A First-Ever Dataset and A Large-Scale Benchmark for Scene Graph Generation in Large-Size Satellite Imagery
 
-Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming Deng, Wenbin Wang, Xian Sun, Haifeng Li, Bo Dang, Yongjun Zhang, **Yi Yu**, Junchi Yan†
+Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming Deng, Wenbin Wang, Xian Sun, Haifeng Li, Bo Dang, Yongjun Zhang, **Yi Yu**, Junchi Yan
 <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2024.
 
@@ -68,7 +64,7 @@ Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming D
 
 ### On Boundary Discontinuity in Angle Regression Based Arbitrary Oriented Object Detection
 
-**Yi Yu**, Feipeng Da†
+**Yi Yu**, Feipeng Da
 <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence* <b style='color:red'>*(TPAMI, JCR-Q1, CCF-A)*</b>, 2024.
 
@@ -76,7 +72,7 @@ Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming D
 
 ### Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
 
-**Yi Yu**\*, Xue Yang\*, Qingyun Li, Feipeng Da†, Jifeng Dai, Yu Qiao, Junchi Yan†
+**Yi Yu**, Xue Yang, Qingyun Li, Feipeng Da, Jifeng Dai, Yu Qiao, Junchi Yan
 <br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, 2024. 
 <br>
@@ -86,7 +82,7 @@ Yansheng Li, Linlin Wang, Tingzhu Wang, Xue Yang, Junwei Luo, Qi Wang, Youming D
 
 ### PointOBB: Learning Oriented Object Detection via Single Point Supervision
 
-Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
+Junwei Luo, Xue Yang, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li
 <br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, 2024. 
 <br>
@@ -96,7 +92,7 @@ Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 
 ### H2RBox-v2: Incorporating Symmetry for Boosting Horizontal Box Supervised Oriented Object Detection
 
-**Yi Yu**\*, Xue Yang\*, Qingyun Li, Yue Zhou, Feipeng Da†, Junchi Yan†
+**Yi Yu**, Xue Yang, Qingyun Li, Yue Zhou, Feipeng Da, Junchi Yan
 <br>
 *Neural Information Processing Systems* <b style='color:red'>*(NeurIPS, CCF-A)*</b>, 2023. 
 <br>
@@ -106,7 +102,7 @@ Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 
 ### Phase-shifting coder: Predicting accurate orientation in oriented object detection
 
-**Yi Yu**, Feipeng Da†
+**Yi Yu**, Feipeng Da
 <br>
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* <b style='color:red'>*(CVPR, CCF-A)*</b>, 2023. 
 <br>
@@ -116,7 +112,7 @@ Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 
 ### Few-data guided learning upon end-to-end point cloud network for 3D face recognition
 
-**Yi Yu**, Feipeng Da†, Ziyu Zhang
+**Yi Yu**, Feipeng Da, Ziyu Zhang
 <br>
 *Multimedia Tools and Applications* <b style='color:red'>*(MTAP, JCR-Q2)*</b>, 2022. 
 
@@ -124,7 +120,7 @@ Junwei Luo, Xue Yang#, **Yi Yu**, Qingyun Li, Junchi Yan, Yansheng Li†
 
 ### Learning directly from synthetic point clouds for “in-the-wild” 3D face recognition
 
-Ziyu Zhang, Feipeng Da†, **Yi Yu**
+Ziyu Zhang, Feipeng Da, **Yi Yu**
 <br>
 *Pattern Recognition* <b style='color:red'>*(PR, JCR-Q1)*</b>, 2022.
 
@@ -132,7 +128,7 @@ Ziyu Zhang, Feipeng Da†, **Yi Yu**
 
 ### Defocused projection model for phase-shifting profilometry with a large depth range
 
-**Yi Yu**, Feipeng Da†
+**Yi Yu**, Feipeng Da
 <br>
 *Optics Express* <b style='color:red'>*(OE, JCR-Q1)*</b>, 2021.
     
@@ -140,7 +136,7 @@ Ziyu Zhang, Feipeng Da†, **Yi Yu**
 
 ### High-Speed Phase-Shifting 3D Profilometry on Human Face Assisted by Statistical Model
 
-**Yi Yu**, Feipeng Da†, Yifan Guo, Ziyu Zhang
+**Yi Yu**, Feipeng Da, Yifan Guo, Ziyu Zhang
 <br>
 *IEEE Transactions on Computational Imaging* <b style='color:red'>*(TCI, JCR-Q1)*</b>, 2020.
 
@@ -148,7 +144,7 @@ Ziyu Zhang, Feipeng Da†, **Yi Yu**
 
 ### Sparse ICP With Resampling and Denoising for 3D Face Verification
 
-**Yi Yu**, Feipeng Da†, Yifan Guo
+**Yi Yu**, Feipeng Da, Yifan Guo
 <br>
 *IEEE Transactions on Information Forensics and Security* <b style='color:red'>*(TIFS, JCR-Q1, CCF-A)*</b>, 2019.
 
