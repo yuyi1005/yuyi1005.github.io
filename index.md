@@ -12,6 +12,16 @@ Yi Yu is currently a postdoc (research associate) at Southeast University, Nanji
 
 # Publications
 
+### Rethinking RoI Strategy in Interactive 3D Segmentation for Medical Images
+Ziyu Zhang, **Yi Yu** (Co-first author), Yuan Xue
+<br>
+*CVPR Workshop on Foundation Models for Medical Vision* <b style='color:red'>*(CVPR Workshop)*</b>, 2025. 
+<br>
+Second place solution in CVPR 2025 Challenge: Foundation Models for Interactive 3D Biomedical Image Segmentation.
+<br>
+
+---
+
 ### Point2RBox-v2：Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances
 
 **Yi Yu**, Botao Ren, Peiyuan Zhang, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
