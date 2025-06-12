@@ -17,7 +17,7 @@ Ziyu Zhang, **Yi Yu** (Co-first author), Yuan Xue
 <br>
 *CVPR Workshop on Foundation Models for Medical Vision* <b style='color:red'>*(CVPR Workshop)*</b>, 2025. 
 <br>
-Second place solution in CVPR 2025 Challenge: Foundation Models for Interactive 3D Biomedical Image Segmentation.
+🥈Second place solution in CVPR 2025 Challenge: Foundation Models for Interactive 3D Biomedical Image Segmentation.
 <br>
 
 ---
