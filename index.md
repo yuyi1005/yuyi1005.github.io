@@ -4,7 +4,7 @@ layout: default
 
 # Biography
 
-Yi Yu is currently a postdoc (research associate) at Southeast University, Nanjing, China. His research advisor is Prof. Feipeng Da. His research interests include efficient annotation, object segmentation and detection, computational imaging, and 3D vision, with applications to biomedical data analysis and advanced manufacturing.
+Yi Yu is currently a postdoctoral scholar at Ohio State University with Prof. Yuan Xue. Before that, he was a research associate at Southeast University with Prof. Feipeng Da. His research interests include efficient annotation, object segmentation and detection, computational imaging, and 3D vision, with applications to biomedical data analysis and advanced manufacturing.
 
 **Education.** Yi Yu received the Ph.D. and B.E. degrees from the School of Automation, Southeast University, Nanjing, China, in 2022 and 2016. 
 
