@@ -259,12 +259,12 @@ h1 {
 }
 
 .timeline-point {
-  min-height: 22px;
+  min-height: 18px;
   align-items: start;
 }
 
 .timeline-entry {
-  padding: 7px 0 20px;
+  padding: 0 0 6px;
 }
 
 .timeline-year {
