@@ -259,6 +259,18 @@ h1 {
   letter-spacing: 0.04em;
   text-align: right;
   text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+  line-height: 1.15;
+  white-space: nowrap;
+}
+
+.timeline-year span + span::before {
+  content: "—";
+  color: #8297a8;
+  margin-right: 4px;
 }
 
 .timeline-marker {
